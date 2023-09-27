@@ -10,6 +10,10 @@ REST Service to extract predominant colors from input images. Tools:
 - FastAPI to serve the solution as a REST API.
 - Docker for isolated and consistent deployment.
 
+### References
+
+[Blog post](https://towardsdatascience.com/create-and-deploy-a-rest-api-extracting-predominant-colors-from-images-a44b94cc3d46)
+
 ### Usage
 
 To create a Docker image and run a container from command line:
